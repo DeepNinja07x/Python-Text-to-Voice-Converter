@@ -1,6 +1,6 @@
 import io
-import pygame
-from gtts import gTTS
+import pygame #pip3 install pygame
+from gtts import gTTS #pip3 install gTTS
 
 def speak(text):
     with io.BytesIO() as file:
