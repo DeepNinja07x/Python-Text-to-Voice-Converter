@@ -3,7 +3,7 @@
 ## Steps:
 -  I would suggest you to create an issue for the development you want to make in the project. Though it isn't mandatory.
   
--  Fork this [repository](https://github.com/DeepNinja07x/Azure_Telemetry_Service)
+-  Fork this [repository](https://github.com/DeepNinja07x/Python-Text-to-Voice-Converter)
   
 -  Clone the forked https://github.com/<Your_Username>/Azure_Telemetry_Service
     > git clone https://github.com/<Your_Username>/Azure_Telemetry_Service.git
