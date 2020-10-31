@@ -33,7 +33,7 @@
 
 - Add the upstream (main project's) repo's URL
 
-    > git remote add upstream https://github.com/DeepNinja07x/Azure_Telemetry_Service.git
+    > git remote add upstream https://github.com/DeepNinja07x/Python-Text-to-Voice-Converter.git
 
 - Now fetch all the new commits from upstream to your local repo.
 
