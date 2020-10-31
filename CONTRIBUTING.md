@@ -5,7 +5,7 @@
   
 -  Fork this [repository](https://github.com/DeepNinja07x/Python-Text-to-Voice-Converter)
   
--  Clone the forked https://github.com/<Your_Username>/Azure_Telemetry_Service
+-  Clone the forked https://github.com/<Your_Username>/Python-Text-to-Voice-Converter
     > git clone https://github.com/<Your_Username>/Azure_Telemetry_Service.git
 
 -  Create new branch 
